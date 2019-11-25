@@ -1,0 +1,19 @@
+{
+  "name": "sap003-md-links",
+  "version": "1.0.0",
+  "description": "Criando uma biblioteca com Node",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "hello()"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbockhorny/SAP003-md-links.git"
+  },
+  "author": "Joanilza Bockhorny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbockhorny/SAP003-md-links/issues"
+  },
+  "homepage": "https://github.com/jbockhorny/SAP003-md-links#readme"
+}
