@@ -1,3 +1,5 @@
+// deve possuir o nome, versão, descrição, autor, licença, dependências e scripts (eslint e test).
+
 {
   "name": "sap003-md-links",
   "version": "1.0.0",
