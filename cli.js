@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 const mdLinks = require('./lib/index.js');
-const path = process.argv.slice(2).pop();
+const path = process.argv.slice(2);
 
 mdLinks(path)
   .then((response) => console.log(response))
