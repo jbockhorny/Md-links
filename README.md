@@ -16,6 +16,6 @@ Após instalado digite:
 `md-links <path-to-file>`
 `$ md-links ./some/example.md`
 
-![]img/mdlinks.jpg
+![](img/mdlinks.jpg)
 
 Autor: Joanilza Oliveira Bockhorny
